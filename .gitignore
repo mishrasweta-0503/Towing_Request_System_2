@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Laravel
+towing-api/vendor/
+towing-api/.env
+towing-api/.env.*
+towing-api/storage/logs/
+towing-api/bootstrap/cache/
+
+# React
+towing-web/node_modules/
+towing-web/build/
+towing-web/.env
+
+# Expo / React Native
+towing-driver/node_modules/
+towing-driver/.expo/
+towing-driver/dist/
+
+# logs
+npm-debug.log*
